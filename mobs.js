@@ -53,7 +53,7 @@ nb.mobs = [
     //Golpur
     "an enormous drakkafly","an immense Rapasu worm","a flat balkrab","a giant black tarak beetle",
     //Saksar
-    "an immense reptillian predator","a male Selassian cultist","a female Selassion cultist","a sharp-toothed raptor","a coiling skilth snake",
+    "an immense reptillian predator","a male Selassian cultist","a female Selassion cultist","a sharp-toothed raptor",
     "a pack of small sharp-toothed reptiles","a scale-feathered scorpion bird","a blue-furred primate","a brutish loroi mercenary",
     //Siva
      "a needle-mouthed eel","an immense alpha skulf","a large hairy skulf","a lean-ribbed skulf","a spot-scaled tridactyl","a venomous tridactyl",
@@ -90,10 +90,9 @@ nb.mobs = [
 	//Ixsei
 	"a crystal-clawed rock giant","a salt-crusted quartz creeper",
 	//northern usum
-	'a blacktooth coroxodon',"a giant tosmarian condor","an immense rapasu worm","an overfed skulf",
-	"a foraging zhubeast","an alert giant springer","a lurking blacktooth coroxodon","a large hairy skulf",
-	"a roosting tosmarian condor","a two-headed zhubeast","a juvenile rapasu worm","a coiling skilth snake",
-	"a giant springer","an immense reptilian predator",
+	'a blacktooth coroxodon',"a giant tosmarian condor","an immense rapasu worm","an immense reptilian predator","an overfed skulf",
+	"a roosting tosmarian condor","a lurking blacktooth coroxodon","a foraging zhubeast","an alert giant springer","a large hairy skulf",
+	"a two-headed zhubeast","a juvenile rapasu worm","a coiling skilth snake","a giant springer",	
 	//prugita
 	"a savage selakki","a somnolent selakki","a stationary sentry bot","a well-armed security bot","a Nabian guard",
 	//deisk
