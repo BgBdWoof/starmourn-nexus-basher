@@ -43,35 +43,34 @@ nb.mobs = [
 	"a stealthy poison-tooth","a green-scaled varrana","a great strider","a wind snake","a Krona poacher","a blue-crested ratika",
 	//Lowtown
 	"a strung-out female Lowtowner","a strung-out male Lowtowner","an oversized heik-il vine","a shifty looking Nath-el","a juvenile heik-il vine","a thrashing heik-il vine","a sickly heik-il vine",
-    //Goribar
-    "a small loam leech", "a saffron algerion", "a coral algerion", "a moss-hued algerion", "a large loam leech",
-    "an azure algerion", "an oversized loam leech", "a loam leech",
-    //Locorin
-    "a blacktooth coroxodon","an enormous blacktooth coroxodon","a ruby-plumed eskama","a mossy shellback",
-    //Kashitir
-    "a nightstalker","a juvenile nightstalker","an indigo malaca","a Grethen silkmoth","a collared malaca",
-    //Golpur
-    "an enormous drakkafly","an immense Rapasu worm","a flat balkrab","a giant black tarak beetle",
-    //Saksar
-    "a male Selassian cultist","a female Selassion cultist","a sharp-toothed raptor",
-    "a pack of small sharp-toothed reptiles","a scale-feathered scorpion bird","a blue-furred primate","a brutish loroi mercenary",
-    //Siva
-     "a needle-mouthed eel","an immense alpha skulf","a large hairy skulf","a lean-ribbed skulf","a spot-scaled tridactyl","a venomous tridactyl",
+   	//Goribar
+   	"a small loam leech", "a saffron algerion", "a coral algerion", "a moss-hued algerion", "a large loam leech",
+    	"an azure algerion", "an oversized loam leech", "a loam leech",
+   	//Locorin
+    	"a blacktooth coroxodon","an enormous blacktooth coroxodon","a ruby-plumed eskama","a mossy shellback",
+    	//Kashitir
+    	"a nightstalker","a juvenile nightstalker","an indigo malaca","a Grethen silkmoth","a collared malaca",
+    	//Golpur
+    	"an enormous drakkafly","an immense Rapasu worm","a flat balkrab","a giant black tarak beetle",
+    	//Saksar
+    	"a male Selassian cultist","a female Selassion cultist","a sharp-toothed raptor",
+    	"a pack of small sharp-toothed reptiles","a scale-feathered scorpion bird","a blue-furred primate","a brutish loroi mercenary",
+    	//Siva
+     	"a needle-mouthed eel","an immense alpha skulf","a large hairy skulf","a lean-ribbed skulf","a spot-scaled tridactyl","a venomous tridactyl",
 
 	//====================
 	// 40-50
 	//====================
 	//Pylos
-    "a tentacle-finned hookmaw", "a slow-moving hunk of living coral", "an algae-covered calciburr",
-    "a depthless puddle of black liquid", "a poison-spitting treefog","a delicately bulbous blinkfish",
-    //Delta deck
-    "a Fatar salvager","an armored salvage bot","a Bushraki mercenary","a Fatar guardian","an Elgan salvager","a Decheeran salvager","a Nusriza salvager",
-    //Greenwilds
-    "a luminous eel","a king tangutan","a hulking arboreal lizard","a great white eagle","a giant guerilla beetle","a female tangutan","a crested great white eagle","an enormous guerilla beetle"
-    //Tosmar
-    "a vicious haerbist","a tundra snake",
-
-
+    	"a tentacle-finned hookmaw", "a slow-moving hunk of living coral", "an algae-covered calciburr",
+    	"a depthless puddle of black liquid", "a poison-spitting treefog","a delicately bulbous blinkfish",
+    	//Delta deck
+    	"a Fatar salvager","an armored salvage bot","a Bushraki mercenary","a Fatar guardian","an Elgan salvager","a Decheeran salvager","a Nusriza salvager",
+    	//Greenwilds
+    	"a luminous eel","a king tangutan","a hulking arboreal lizard","a great white eagle","a giant guerilla beetle","a female tangutan","a crested great white eagle",
+	"an enormous guerilla beetle",
+    	//Tosmar
+    	"a vicious haerbist","a tundra snake",
 
 	//====================
 	// 50-65
@@ -84,11 +83,9 @@ nb.mobs = [
 	"a rampaging construction mech","a dilapidated construction mech","the thrashing root of a cyborg leech orchid","a cyborg leech orchid","a Chrome Skull mercenary",	
 
 
-
 	//====================
 	// 65+
 	//====================
-
 	//Thait
 	"a ferociously toothed moss lizard","a needle-clawed moss lizard","a horned lapine",
 	//deisk
