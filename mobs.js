@@ -2,7 +2,7 @@
 nb.mobs = [
 	
 	//Secret areas- agro
-	"an out-of-control maintenance drone",
+	"an out-of-control maintenance drone","a silver-grey nanite tentacle",
 	//====================
 	// 1-15
 	//====================
