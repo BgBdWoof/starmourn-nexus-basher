@@ -99,7 +99,8 @@ nb.mobs = [
 	"a virile heik-il vine","a tangle-bodied tentacla","a thrashing heik-il vine","a monstrously huge heik-il vine","a dour Bushraki looter","a menacing Bushraki looter",
 	"a heavily armed male Bushraki guard","a heavily armed female Bushraki guard","an off-duty Bushraki looter","a tough Bushraki drug runner",
 	//Ixsei
-	"a crystal-headed tolma","a silver-scaled spinehusk","a crystal-clawed rock giant","a salt-crusted quartz creeper",
+	"a crystal-headed tolma","a silver-scaled spinehusk","a crystal-clawed rock giant","a female Selassian Viper","a male Selassian Viper","a female Selassian Venom","a male Selassian Venom",
+	"a female Selassian Ophidian","a male Selassian Ophidian","a female Selassian Neonate","a male Selassian Neonate","a salt-crusted quartz creeper",
 	//northern usum
 	"a spike-shouldered tau","a skeleton-headed gemra","a leathery-winged okrot","a green-fronded prulan","a blacktooth coroxodon","a giant tosmarian condor","an immense rapasu worm","an immense reptilian predator","an overfed skulf",
 	"a roosting tosmarian condor","a lurking blacktooth coroxodon","a foraging zhubeast","an alert giant springer","a large hairy skulf",
