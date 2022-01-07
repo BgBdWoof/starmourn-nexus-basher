@@ -40,7 +40,7 @@ nb.beastCheckOverclock = function(msg) {
 nb.offense.BEAST = function(){
 	var backhand = nb.haveSkill("suittech","backhand");
 	var minigun = nb.haveSkill("mwp","minigun");
-	var hobble = nb.haveSkill("mwp","hobble");
+	var hobble = nb.haveSkill("mwp","wallop");
 	var dualshot = nb.haveSkill("mwp","dualshot");
 	var em = nb.tarIsMech && nb.haveSkill("mwp","emshot");
 	if (!backhand && !hobble && !em) {
@@ -58,7 +58,7 @@ nb.offense.BEAST = function(){
 		if (!("ab_MWP_dualshot" in nb.cooldowns)) {
 			return "dualshot "+nb.tar;
 		} else {
-			return "hobble "+nb.tar;
+			return "wallop "+nb.tar;
 		}
 	} else {
 		if (nb.tarStaggeringOrDazed) {
