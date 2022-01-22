@@ -111,6 +111,8 @@ nb.mobs = [
 	"a twin-headed henizu","a long-legged trisurde","a metallic-furred fuber",
 	//td
 	"a tentacle-limbed shapeshifter","an eyeless maw",
+	//The Gnomon Institute
+	"a Vihana void crawler",
 
 ];
 
