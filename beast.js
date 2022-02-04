@@ -42,7 +42,7 @@ nb.offense.BEAST = function(){
 	var minigun = nb.haveSkill("mwp","minigun");
 	var hobble = nb.haveSkill("mwp","wallop");
 	var dualshot = nb.haveSkill("mwp","dualshot");
-	var em = nb.tarIsMech && nb.haveSkill("mwp","emshot");
+	var em = nb.tarIsMech && nb.haveSkill("suit","pulse");
 	if (!backhand && !hobble && !em) {
 		//we do not use minigun, and must use plasma burn. Do not use heatup. 
 		return "plasma burn "+nb.tar;
@@ -51,7 +51,7 @@ nb.offense.BEAST = function(){
 		return "heatup";
 	}
 	if (em) {
-		return "mwp emshot "+nb.tar;
+		return "suit pulse "+nb.tar;
 	}
 	else if (dualshot) {
 		//if we have dualshot, we have hobble
