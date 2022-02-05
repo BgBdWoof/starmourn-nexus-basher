@@ -19,6 +19,8 @@ nb.mobs = [
 	"a water skipper","a sparkling eel","a small arboreal lizard",
 	//Dregs
 	"a miniature mauve rodent","a hairless vermilion rodent","a vicious vermilion rodent","a ravenous red rodent",
+	//Bodean quest
+	"an axropod",
 
 	//====================
 	// 10-20
