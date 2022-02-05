@@ -3,6 +3,9 @@ nb.mobs = [
 	
 	//Secret areas- agro
 	"an out-of-control maintenance drone","a silver-grey nanite tentacle","a glittering cloud of nanites","an out-of-control FeTek assembly drone","a Vonikin Krel drug dealer",
+	
+	//Secret areas- non-agro
+	"a venomous rockhopper",
 	//====================
 	// 1-15
 	//====================
