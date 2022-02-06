@@ -63,7 +63,7 @@ nb.mobs = [
     	//Golpur
     	"a broad-horned stripeback","an enormous drakkafly","an immense Rapasu worm","a flat balkrab","a giant black tarak beetle",
     	//Saksar
-    	"a spot-pelted kumta","a ruby-pincered skitter","a male Selassian cultist","a female Selassion cultist","a sharp-toothed raptor",
+    	"a spot-pelted kumta","a ruby-pincered skitter","a male Selassian cultist","a female Selassion cultist","a female Selassian cultist","a sharp-toothed raptor",
     	"a pack of small sharp-toothed reptiles","a scale-feathered scorpion bird","a blue-furred primate","a brutish loroi mercenary",
     	//Siva
      	"a long-necked tuu","a needle-mouthed eel","an immense alpha skulf","a large hairy skulf","a lean-ribbed skulf","a spot-scaled tridactyl","a venomous tridactyl",
