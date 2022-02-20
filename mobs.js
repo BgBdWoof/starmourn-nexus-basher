@@ -3,6 +3,7 @@ nb.mobs = [
 	
 	//Secret areas- agro
 	"an out-of-control maintenance drone","a silver-grey nanite tentacle","a glittering cloud of nanites","an out-of-control FeTek assembly drone","a Vonikin Krel drug dealer",
+	"a seek-and-destroy drone",
 	
 	//Secret areas- non-agro
 	"a venomous rockhopper",
@@ -122,7 +123,7 @@ nb.mobs = [
 ];
 
 //names of mechanical targets go here. 
-nb.mechanicals = ["an out-of-control FeTek assembly drone","an out-of-control maintenance drone","a cyborg leech orchid","a rampaging construction mech","a dilapidated construction mech","a stationary sentry bot","a well-armed security bot",
+nb.mechanicals = ["a seek-and-destroy drone","an out-of-control FeTek assembly drone","an out-of-control maintenance drone","a cyborg leech orchid","a rampaging construction mech","a dilapidated construction mech","a stationary sentry bot","a well-armed security bot",
 "a glitch-riddled security robot","an aggressively malfunctioning drone","a malfunctioning windmill drone","an armored salvage bot"];
 
 nb.ignores = nb.ignores || [];
